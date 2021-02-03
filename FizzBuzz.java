@@ -1,5 +1,3 @@
-package ques;
-
 import java.util.Scanner;
 
 public class FizzBuzz {
